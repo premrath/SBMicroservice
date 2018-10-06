@@ -8,5 +8,8 @@ package com.mti.sb.ms.services;
  *
  */
 public class MSService {
+	public void getAllAccounts(int id){
+		
+	}
 
 }
