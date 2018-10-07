@@ -1,0 +1,7 @@
+---
+applications:
+- name : SBMicroservices
+  mem: 512m
+  instances: 1
+  path: /Users/Shared/Jenkins/Home/workspace/SBMicroservice/target/SBMicroservice-0.0.1-SNAPSHOT.jar
+  
